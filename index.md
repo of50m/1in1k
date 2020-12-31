@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+## Download Math Execercises!
 
 You can use the [editor on GitHub](https://github.com/songweitsay/1in1k/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
